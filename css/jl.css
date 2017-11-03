@@ -1,0 +1,170 @@
+body{
+	margin: 0;
+	background: rgba(0,0,0,0.8);
+}
+p{
+	margin: 0;
+}
+ul{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+#out{
+	width: 826px;
+	margin: 10px auto;
+}
+.clearfix:after{
+	content: '';
+	display: block;
+	clear: both;
+}
+h2{
+	font-size: 22px;
+}
+.left{
+	float: left;
+	width: 230px;
+	height: 1000px;
+	background: #5dc3b1;
+	color: #fff;
+	font-family: "微软雅黑";
+	/*font-weight: bold;*/
+}
+.left img{
+	display: inline-block;
+	width: 108px;
+	height: 144px;
+	margin: 30px 60px 0;
+	/*border-radius: 50%;*/
+}
+#myname{
+	width: 200px;
+	font-size: 32px;
+	text-align: center;
+	color: #fff;
+	padding-bottom: 10px;
+	margin: 10px 15px;
+	border-bottom: 3px solid #1d7d71;
+}
+.left .title{
+	color: #1d7d71;
+}
+#basic{
+	width: 200px;
+	border: 1px solid #1d7d71;
+	border-width: 0 0 1px 0;
+	margin: 20px 15px;
+	padding-bottom: 10px;
+}
+#basic li{
+	height: 26px;
+	font-size: 14px;
+	text-align: center;
+}
+#education{
+	width: 200px;
+	border: 1px solid #1d7d71;
+	border-width: 0 0 1px 0;
+	margin: 20px 15px;
+}
+#education span{
+	font-weight: bold;
+}
+.left h3{
+	font-size: 18px;
+	color: #1d7d71;
+}
+.left p{
+	font-size: 14px;
+	margin: 10px 0;
+}
+.time{
+	color: #1d7d71;
+	font-weight: bold;
+}
+
+
+
+.right{
+	float: left;
+	width:440px;
+	height: 975px;
+	background: #f1eee8;
+	padding: 0 15px 25px;
+	font-family: "微软雅黑";
+	color: #616060;
+}
+.right p{
+	font-size: 14px;
+}
+.right a{
+	text-decoration: none;
+}
+.right .title{
+	margin: 20px 0;
+	color: #636161;
+	/*color: #1b7b6f;*/
+	font-size: 22px;
+}
+.skill .title{
+	margin: 20px 0 15px;
+}
+.right h3{
+	font-size: 18px;
+	margin: 10px 0;
+}
+.skill ul{
+	margin-bottom: 15px;
+	padding-right: 20px;
+}
+.skill a{
+	color: #616060;
+	font-weight: bold;
+}
+.skill li{
+	font: 16px/20px "微软雅黑";
+	text-align: right;
+	margin-bottom: 5px;
+}
+.skill div{
+	display: inline-block;
+	width: 290px;
+	height: 20px;
+	background: #cdcac5;
+	text-align: left;
+	border-radius: 10px;
+	margin: 0 10px 0;
+}
+.skill div span{
+	display: inline-block;
+	width: 200px;
+	height: 20px;
+	background: #5dc3b1;
+	border-radius: 10px 0 0 10px;
+	margin: 0;
+}
+#first{
+	width: 200px;
+}
+#second{
+	width: 200px;
+}
+#third{
+	width: 180px;	
+}
+#fourth{
+	width: 130px;	
+}
+#fifth{
+	width: 80px;	
+}
+#sixth{
+	width: 80px;	
+}
+#seventh{
+	width: 80px;	
+}
+#last p{
+	line-height: 22px;
+}
